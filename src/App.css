@@ -17,7 +17,7 @@
 }
 
 html {
-  font-size: calc(10px + (14 - 10) * ((100vw - 400px) / (800 - 400)));
+  font-size: calc( 10px + (14 - 10) * ((100vw - 400px) / ( 800 - 400)));
 }
 
 body {
@@ -40,7 +40,7 @@ body {
 .article__title {
   margin-bottom: 1em;
   color: #fff;
-  opacity: 0.8;
+  opacity: 0.8;  
 }
 
 .article__paragraph {
@@ -71,7 +71,7 @@ body {
   opacity: .6;
   border-bottom-width: .2rem;
   border-bottom-style: solid;
-  border-bottom-color: transparent;
+  border-bottom-color: transparent; 
 }
 
 .menu__item:hover {
